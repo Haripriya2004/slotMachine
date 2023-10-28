@@ -3,7 +3,7 @@
 // collect bet amount
 //spin the slot machine
 // if user won 
-//show thei winings
+//show their winings and the winings amount will be added or if they get lose the amount will be deducted
 //play again
 
 const prompt = require("prompt-sync")();
